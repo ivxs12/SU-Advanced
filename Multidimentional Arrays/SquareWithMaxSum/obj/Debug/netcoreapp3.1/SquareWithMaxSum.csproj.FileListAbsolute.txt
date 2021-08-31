@@ -1,0 +1,12 @@
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\bin\Debug\netcoreapp3.1\SquareWithMaxSum.exe
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\bin\Debug\netcoreapp3.1\SquareWithMaxSum.deps.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\bin\Debug\netcoreapp3.1\SquareWithMaxSum.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\bin\Debug\netcoreapp3.1\SquareWithMaxSum.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\bin\Debug\netcoreapp3.1\SquareWithMaxSum.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\bin\Debug\netcoreapp3.1\SquareWithMaxSum.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\obj\Debug\netcoreapp3.1\SquareWithMaxSum.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\obj\Debug\netcoreapp3.1\SquareWithMaxSum.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\obj\Debug\netcoreapp3.1\SquareWithMaxSum.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\obj\Debug\netcoreapp3.1\SquareWithMaxSum.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\obj\Debug\netcoreapp3.1\SquareWithMaxSum.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquareWithMaxSum\obj\Debug\netcoreapp3.1\SquareWithMaxSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.exe
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.deps.json
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.dll
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\bin\Debug\netcoreapp3.1\CustomMinFunction.pdb
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.dll
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.pdb
+C:\Users\ivxs2\source\repos\Functional Programming\CustomMinFunction\obj\Debug\netcoreapp3.1\CustomMinFunction.genruntimeconfig.cache

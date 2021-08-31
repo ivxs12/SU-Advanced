@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.exe
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.deps.json
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.dll
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\bin\Debug\netcoreapp3.1\PredicateParty.pdb
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.dll
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.pdb
+C:\Users\ivxs2\source\repos\Functional Programming\PredicateParty\obj\Debug\netcoreapp3.1\PredicateParty.genruntimeconfig.cache

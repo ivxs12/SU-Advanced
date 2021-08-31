@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.exe
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.deps.json
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.dll
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.pdb
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.dll
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.pdb
+C:\Users\ivxs2\source\repos\Functional Programming\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.genruntimeconfig.cache

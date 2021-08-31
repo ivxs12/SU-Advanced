@@ -1,0 +1,13 @@
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.exe
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.deps.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\bin\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csprojAssemblyReference.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\PascalTriangle\obj\Debug\netcoreapp3.1\PascalTriangle.genruntimeconfig.cache

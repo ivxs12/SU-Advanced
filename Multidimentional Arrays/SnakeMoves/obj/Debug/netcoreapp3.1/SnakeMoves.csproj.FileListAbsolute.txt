@@ -1,0 +1,12 @@
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.exe
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.deps.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\bin\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SnakeMoves\obj\Debug\netcoreapp3.1\SnakeMoves.genruntimeconfig.cache

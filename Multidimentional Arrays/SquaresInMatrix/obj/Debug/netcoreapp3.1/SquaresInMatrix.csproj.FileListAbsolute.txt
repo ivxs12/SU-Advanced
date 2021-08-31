@@ -1,0 +1,12 @@
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.exe
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.deps.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.runtimeconfig.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\bin\Debug\netcoreapp3.1\SquaresInMatrix.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.AssemblyInfo.cs
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.dll
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.pdb
+C:\Users\ivxs2\source\repos\Multidimentional Arrays - SU Advanced\SquaresInMatrix\obj\Debug\netcoreapp3.1\SquaresInMatrix.genruntimeconfig.cache
